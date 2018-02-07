@@ -1,5 +1,43 @@
 <!DOCTYPE html>
 	<html>
+		<style>
+h1 {
+    color: MediumVioletRed ;
+    font-family: courier;
+    font-size: 300%;
+}
+p  {
+    color: MediumVioletRed ;
+    font-family: courier;
+    font-size: 160%;
+}
+b  {
+    color: MediumVioletRed ;
+    font-family: courier;
+    font-size: 150%;
+}
+h2 {
+    color: MediumVioletRed ;
+	font-family: courier;
+    font-size: 200%;
+}
+h3 {
+    color: MediumVioletRed ;
+    font-family: courier;
+    font-size 190%;
+}
+li {
+    color: MediumVioletRed ;
+    font-family: courier;
+    font-size 100%;
+}
+br {
+	color: MediumVioletRed ;
+	font-family: courier;
+	font-size 100%;
+} 
+body {background-color: Azure ;}
+</style>
 		<head>
 			<title>ecks dee</title>
 		</head>
