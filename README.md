@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 		<head>
 			<title>ecks dee</title>
 		</head>
