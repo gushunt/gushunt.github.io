@@ -1,7 +1,4 @@
 <!DOCTYPE html>
-	<html>
-		<style>
-
 		<head>
 			<title>ecks dee</title>
 		</head>
