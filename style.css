@@ -1,6 +1,9 @@
 body {
-    font: normal 20px Courier New;
-    color: lime
+      font: normal 20px Courier New;
+      color: lime;
+	  margin-left: 50px;
+	  margin-right: 50px;
+	  background-color: #272828 ;
 }
 h1 {
     font-size: 300%;
@@ -17,10 +20,3 @@ h2 {
 h3 {
     font-size 190%;
 }
-li {
-    font-size 100%;
-}
-br {
-    font-size 100%;
-} 
-body {background-color: #272828 ;}
