@@ -9,7 +9,7 @@ h1 {
     font-size: 300%;
 }
 p  {
-    font-size: 160%;
+    font-size: 120%;
 }
 b  {
     font-size: 150%;
@@ -49,3 +49,12 @@ li a:hover:not(.active) {
 .active {
     background-color: #4CAF50;
 }
+    .gmail {
+        width: 130px;
+        height: 195px;
+        background: url("images/gmail.png") no-repeat;
+        margin: 50px;
+    }
+    .gmail:hover {
+        background: url("/examples/images/card-front.jpg") no-repeat;
+    }
