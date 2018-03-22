@@ -46,15 +46,19 @@ li a:hover:not(.active) {
     background-color: #111;
 }
 
+li a.active {
+	background-color: #54adf7;
+}
+
 .active {
     background-color: #4CAF50;
 }
-    .gmail {
-        width: 130px;
-        height: 195px;
-        background: url("images/gmail.png") no-repeat;
-        margin: 50px;
+.gmail {
+    width: 130px;
+    height: 195px;
+    background: url("images/gmail.png") no-repeat;
+    margin: 50px;
     }
-    .gmail:hover {
-        background: url("/examples/images/card-front.jpg") no-repeat;
+.gmail:hover {
+    background: url("/examples/images/card-front.jpg") no-repeat;
     }
