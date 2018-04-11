@@ -49,10 +49,6 @@ li a:hover:not(.active) {
 li a.active {
 	background-color: #54adf7;
 }
-
-.active {
-    background-color: #4CAF50;
-}
 .gmail {
     width: 130px;
     height: 195px;
